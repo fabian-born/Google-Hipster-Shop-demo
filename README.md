@@ -1,7 +1,10 @@
 # Google-Hipster-Shop-demo
-## Fork from: https://github.com/GoogleCloudPlatform/microservices-demo
+### Fork from: https://github.com/GoogleCloudPlatform/microservices-demo
+
+## Changes / Modifications and its pre-requisits
 
 ___
+
 
 # Hipster Shop: Cloud-Native Microservices Demo Application
 
